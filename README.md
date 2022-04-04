@@ -15,3 +15,5 @@ Primeiramente foi feito uma análise inicial de qual era o melhor modelo de clas
 Na análise inicial o melhor modelo foi o RandomForest. Com isso o proximo passo foi melhorar os Hiperparâmetros do RandomForest para descobrir os melhores parametros, com isso conseguimos gerar o modelo final do projeto.
 
 Gerado o modelo final, utilizamos a biblioteca joblib para salvar o modelo e criar um deploy do projeto, para que as pessoas pudessem utilizar esse modelo para prever se elas tem ou não diabetes.
+
+![image](https://user-images.githubusercontent.com/49615892/161458512-5d8fe310-d03a-4136-bdd5-4ae2062df354.png)
